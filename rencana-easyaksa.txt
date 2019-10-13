@@ -1,3 +1,5 @@
 pembuatan flash screen
 pembuatan Request Purchase
-pembuatan Purchase Order
+pembuatan Purchase Order 
+Pembuatan Pengadaan
+Pembuatan Penerimaan Barang
